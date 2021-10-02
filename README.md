@@ -5,9 +5,9 @@ CWClientCheat
 
 - AimBot
     - Key
-          • AutoAim
-          • Shift
-          • Mouse 2
+          <kbd> AutoAim</kbd>
+          <kbd> Shift</kbd>
+          <kbd> Mouse 2</kbd>
     - TrigerBot
 - ESP
     - Esp Box
